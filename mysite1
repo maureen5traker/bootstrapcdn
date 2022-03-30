@@ -1,0 +1,4 @@
+<!doctype html>
+<div class="g-recaptcha" data-sitekey="6LdS8i4fAAAAAOcazKnVZ273jyM3URSk7Od-7mFJ" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</html>
